@@ -1,4 +1,4 @@
-# visualization.py
+#  visualization.py
 import matplotlib.pyplot as plt
 from typing import List
 from scheduler import Process, CPU
