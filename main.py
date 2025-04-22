@@ -1,4 +1,4 @@
-# main.py
+#  main.py
 from scheduler import Process
 from simulation import simulate_round_robin
 from visualization import visualize_power_consumption
@@ -17,4 +17,4 @@ if __name__ == "__main__":
         visualize_power_consumption(completed, cpu)
     
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error: {e}") 
